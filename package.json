@@ -8,5 +8,8 @@
   },
   "author": "reforget-id",
   "license": "MIT",
-  "homepage": "https://github.com/reforget-id/getmeta-ffprobe"
+  "homepage": "https://github.com/reforget-id/getmeta-ffprobe",
+  "files": [
+    "index.js"
+  ]
 }
