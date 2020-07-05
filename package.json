@@ -1,0 +1,12 @@
+{
+  "name": "getmeta-ffprobe",
+  "version": "0.0.1",
+  "description": "Get metadata from a video with ffprobe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "reforget-id",
+  "license": "MIT",
+  "homepage": "https://github.com/reforget-id/getmeta-ffprobe"
+}
