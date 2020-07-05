@@ -1,6 +1,6 @@
 {
   "name": "getmeta-ffprobe",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Get metadata from a video with ffprobe",
   "main": "index.js",
   "scripts": {
